@@ -55,4 +55,5 @@ cmake .. -DCMAKE_BUILD_TYPE=Release -DBUILD_DOCS=ON
 make doxygen
 ```
 
+
 This will generate the documentation in the `html` folder.
