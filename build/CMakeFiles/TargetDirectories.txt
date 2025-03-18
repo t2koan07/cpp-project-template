@@ -1,0 +1,3 @@
+/Users/andy/Pilvi/cpp-project-template/build/CMakeFiles/adder.dir
+/Users/andy/Pilvi/cpp-project-template/build/CMakeFiles/edit_cache.dir
+/Users/andy/Pilvi/cpp-project-template/build/CMakeFiles/rebuild_cache.dir
